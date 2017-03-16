@@ -1,0 +1,631 @@
+[
+    {
+        "outputFile": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 42,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 42,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 50,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 50,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 50,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 50,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 51,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 51,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 51,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 51,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 48,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 48,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endColumn": 53,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 53,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 53,
+                    "endOffset": 1083
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 53,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1088,
+                    "endColumn": 50,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 50,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 51,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 51,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 50,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 50,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 48,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 48,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 41,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 41,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 49,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 49,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 67,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 43,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 43,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 61,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 61,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 69,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 69,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 70,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 70,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endLine": 32,
+                    "endColumn": 13,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endLine": 22,
+                        "endColumn": 13,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 53,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 53,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 44,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 44,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 48,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/config.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 48,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endColumn": 56,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 56,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2112
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2117,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2215
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2220,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3066
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3071,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3224
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2571,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3229,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1945,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3855,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 4013
+                },
+                "from": {
+                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1089
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/transparent_tool.xml",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/transparent_tool.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/pentool_bg.xml",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/pentool_bg.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/action_button_bg.xml",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/action_button_bg.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/transparent.xml",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/transparent.xml"
+    }
+]

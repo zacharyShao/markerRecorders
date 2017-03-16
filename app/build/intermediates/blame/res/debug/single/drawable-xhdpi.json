@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/markers.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/markers.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/launcher_icon.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/check.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/check.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/scribble.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/scribble.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/overflow.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/overflow.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/divider.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/divider.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/doodlebug.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/doodlebug.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/share.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/undo.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/undo.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/newpage.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/newpage.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/gallery.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/gallery.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/load.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/load.png"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-xhdpi/large_launcher_icon.png",
+        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-xhdpi/large_launcher_icon.png"
+    }
+]
