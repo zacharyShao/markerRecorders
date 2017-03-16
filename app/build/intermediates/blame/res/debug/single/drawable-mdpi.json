@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-mdpi/icon.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-mdpi/launcher_icon.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-mdpi/launcher_icon.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-mdpi/qr.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-mdpi/qr.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-mdpi/markers.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-mdpi/markers.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-mdpi/launcher_icon.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-mdpi/launcher_icon.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-mdpi/qr.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-mdpi/qr.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-mdpi/markers.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-mdpi/markers.png"
     }
 ]

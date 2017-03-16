@@ -1,34 +1,50 @@
 [
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/about_box.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/about_box.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/overflow_menu.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/overflow_menu.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/activity_ffmpeg_preview.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/activity_ffmpeg_preview.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/colors_vertical.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/colors_vertical.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/pen_editor.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/pen_editor.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/tools.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/tools.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/colors_horizontal.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/colors_horizontal.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/colors_horizontal.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/colors_horizontal.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/activity_recorder.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/activity_recorder.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/main.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/overflow_menu.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/overflow_menu.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/pen_editor.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/pen_editor.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/global_dialog.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/global_dialog.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/layout/actionbar.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/layout/actionbar.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/colors_vertical.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/colors_vertical.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/about_box.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/about_box.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/activity_recorder_progress.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/activity_recorder_progress.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/actionbar.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/actionbar.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/layout/tools.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/layout/tools.xml"
     }
 ]

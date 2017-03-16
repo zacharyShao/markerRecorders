@@ -81,90 +81,173 @@ containing a value of this type.
     }
     public static final class drawable {
         public static final int action_button_bg=0x7f020000;
-        public static final int actionbar_button_bg=0x7f02001d;
-        public static final int actionbar_button_pressed_bg=0x7f02001e;
-        public static final int actionbar_button_selected_bg=0x7f02001f;
+        public static final int actionbar_button_bg=0x7f020048;
+        public static final int actionbar_button_pressed_bg=0x7f020049;
+        public static final int actionbar_button_selected_bg=0x7f02004a;
         public static final int airbrush_dark=0x7f020001;
         public static final int airbrush_light=0x7f020002;
-        public static final int check=0x7f020003;
-        public static final int checks_light=0x7f020004;
-        public static final int checks_small_dark=0x7f020005;
-        public static final int circle=0x7f020006;
-        public static final int circle_1bpp=0x7f020007;
-        public static final int divider=0x7f020008;
-        public static final int doodlebug=0x7f020009;
-        public static final int fountainpen=0x7f02000a;
-        public static final int gallery=0x7f02000b;
-        public static final int grabber=0x7f02000c;
-        public static final int icon=0x7f02000d;
-        public static final int large_launcher_icon=0x7f02000e;
-        public static final int launcher_icon=0x7f02000f;
-        public static final int load=0x7f020010;
-        public static final int markers=0x7f020011;
-        public static final int newpage=0x7f020012;
-        public static final int overflow=0x7f020013;
-        public static final int pentool_bg=0x7f020014;
-        public static final int qr=0x7f020015;
-        public static final int scribble=0x7f020016;
-        public static final int share=0x7f020017;
-        public static final int transparent=0x7f020018;
-        public static final int transparent_tool=0x7f020019;
-        public static final int uncledan=0x7f02001a;
-        public static final int uncledan_save=0x7f02001b;
-        public static final int undo=0x7f02001c;
+        public static final int btn_darkgrey_bg=0x7f020003;
+        public static final int btn_darkgrey_bg_pressed=0x7f020004;
+        public static final int btn_dialog_normal=0x7f020005;
+        public static final int btn_lightgreen_bg=0x7f020006;
+        public static final int btn_lightgreen_bg_pressed=0x7f020007;
+        public static final int btn_recorder_cancel=0x7f020008;
+        public static final int btn_recorder_flashlight=0x7f020009;
+        public static final int btn_recorder_frontcamera=0x7f02000a;
+        public static final int btn_recorder_next=0x7f02000b;
+        public static final int btn_recorder_picture=0x7f02000c;
+        public static final int btn_recorder_video=0x7f02000d;
+        public static final int btn_recorder_video_text=0x7f02000e;
+        public static final int button=0x7f02000f;
+        public static final int button_globaldialog=0x7f020010;
+        public static final int button_status_color=0x7f020011;
+        public static final int check=0x7f020012;
+        public static final int checks_light=0x7f020013;
+        public static final int checks_small_dark=0x7f020014;
+        public static final int circle=0x7f020015;
+        public static final int circle_1bpp=0x7f020016;
+        public static final int dialog_title_bar=0x7f020017;
+        public static final int divider=0x7f020018;
+        public static final int doodlebug=0x7f020019;
+        public static final int fountainpen=0x7f02001a;
+        public static final int gallery=0x7f02001b;
+        public static final int grabber=0x7f02001c;
+        public static final int guide_icn_close_pressed=0x7f02001d;
+        public static final int ic_launcher=0x7f02001e;
+        public static final int icn_change_view=0x7f02001f;
+        public static final int icn_change_view_pressed=0x7f020020;
+        public static final int icn_flashlight_off=0x7f020021;
+        public static final int icn_flashlight_on=0x7f020022;
+        public static final int icn_move=0x7f020023;
+        public static final int icn_move_pressed=0x7f020024;
+        public static final int icn_pic_choose=0x7f020025;
+        public static final int icn_pic_delete=0x7f020026;
+        public static final int icn_picture=0x7f020027;
+        public static final int icn_picture_pressed=0x7f020028;
+        public static final int icn_play_big=0x7f020029;
+        public static final int icn_play_small=0x7f02002a;
+        public static final int icn_save=0x7f02002b;
+        public static final int icn_save_pressed=0x7f02002c;
+        public static final int icn_video=0x7f02002d;
+        public static final int icn_video_pressed=0x7f02002e;
+        public static final int icn_zoomin=0x7f02002f;
+        public static final int icn_zoomin_pressed=0x7f020030;
+        public static final int icon=0x7f020031;
+        public static final int large_launcher_icon=0x7f020032;
+        public static final int launcher_icon=0x7f020033;
+        public static final int load=0x7f020034;
+        public static final int markers=0x7f020035;
+        public static final int newpage=0x7f020036;
+        public static final int overflow=0x7f020037;
+        public static final int pentool_bg=0x7f020038;
+        public static final int progress_bar_green=0x7f020039;
+        public static final int progress_bar_grey=0x7f02003a;
+        public static final int qr=0x7f02003b;
+        public static final int record_icon=0x7f02003c;
+        public static final int recorder_success_progress=0x7f02003d;
+        public static final int replace_it_with_your_watermark=0x7f02003e;
+        public static final int scribble=0x7f02003f;
+        public static final int semi_transparent=0x7f020040;
+        public static final int share=0x7f020041;
+        public static final int sign_video=0x7f020042;
+        public static final int transparent=0x7f020043;
+        public static final int transparent_tool=0x7f020044;
+        public static final int uncledan=0x7f020045;
+        public static final int uncledan_save=0x7f020046;
+        public static final int undo=0x7f020047;
     }
     public static final class id {
-        public static final int about=0x7f080017;
+        public static final int about=0x7f08002e;
         public static final int actionbar=0x7f080007;
         public static final int actionbar_contents=0x7f080008;
         public static final int airbrush=0x7f080000;
-        public static final int airbrush_marker=0x7f080020;
+        public static final int airbrush_marker=0x7f080037;
+        public static final int btn_cancel=0x7f080028;
+        public static final int btn_confirm=0x7f08002a;
         public static final int clear=0x7f08000d;
-        public static final int colors=0x7f080013;
+        public static final int colors=0x7f080025;
         public static final int debug=0x7f08000a;
-        public static final int editor=0x7f080018;
-        public static final int fat_marker=0x7f08001d;
+        public static final int divider=0x7f080029;
+        public static final int editor=0x7f08002f;
+        public static final int fat_marker=0x7f080034;
         public static final int feltTip=0x7f080001;
-        public static final int felttip_marker=0x7f08001f;
+        public static final int felttip_marker=0x7f080036;
         public static final int fountainpen=0x7f080002;
-        public static final int fountainpen_marker=0x7f080021;
+        public static final int fountainpen_marker=0x7f080038;
         public static final int html=0x7f080006;
-        public static final int hud=0x7f080016;
+        public static final int hud=0x7f08002d;
         public static final int load=0x7f08000c;
         public static final int logo=0x7f080004;
         public static final int logotype=0x7f080009;
         public static final int next=0x7f080010;
         public static final int overflow=0x7f080012;
-        public static final int pen_medium=0x7f08001b;
-        public static final int pen_thick=0x7f08001c;
-        public static final int pen_thin=0x7f08001a;
+        public static final int pen_medium=0x7f080032;
+        public static final int pen_thick=0x7f080033;
+        public static final int pen_thin=0x7f080031;
+        public static final int play_cancel=0x7f080014;
+        public static final int play_finish=0x7f080015;
         public static final int prev=0x7f08000f;
-        public static final int root=0x7f080014;
+        public static final int preview_video=0x7f080017;
+        public static final int preview_video_parent=0x7f080016;
+        public static final int previre_play=0x7f080018;
+        public static final int recorder_bottom=0x7f080013;
+        public static final int recorder_cancel=0x7f08001f;
+        public static final int recorder_flashlight=0x7f08001b;
+        public static final int recorder_flashlight_parent=0x7f080019;
+        public static final int recorder_frontcamera=0x7f08001c;
+        public static final int recorder_next=0x7f080020;
+        public static final int recorder_progress=0x7f08001d;
+        public static final int recorder_progress_progressbar=0x7f080023;
+        public static final int recorder_progress_progresstext=0x7f080024;
+        public static final int recorder_progress_text=0x7f080022;
+        public static final int recorder_surface_parent=0x7f080021;
+        public static final int recorder_surface_state=0x7f08001e;
+        public static final int root=0x7f08002b;
         public static final int save=0x7f08000e;
         public static final int share=0x7f080011;
         public static final int title=0x7f080005;
-        public static final int tool_zoom=0x7f080019;
-        public static final int tools=0x7f080015;
+        public static final int tool_zoom=0x7f080030;
+        public static final int tools=0x7f08002c;
+        public static final int txtTimer=0x7f08001a;
+        public static final int txt_msg=0x7f080027;
+        public static final int txt_title=0x7f080026;
         public static final int undo=0x7f08000b;
         public static final int whiteboard=0x7f080003;
-        public static final int whiteboard_marker=0x7f08001e;
+        public static final int whiteboard_marker=0x7f080035;
     }
     public static final class layout {
         public static final int about_box=0x7f030000;
         public static final int actionbar=0x7f030001;
-        public static final int colors_horizontal=0x7f030002;
-        public static final int colors_vertical=0x7f030003;
-        public static final int main=0x7f030004;
-        public static final int overflow_menu=0x7f030005;
-        public static final int pen_editor=0x7f030006;
-        public static final int tools=0x7f030007;
+        public static final int activity_ffmpeg_preview=0x7f030002;
+        public static final int activity_recorder=0x7f030003;
+        public static final int activity_recorder_progress=0x7f030004;
+        public static final int colors_horizontal=0x7f030005;
+        public static final int colors_vertical=0x7f030006;
+        public static final int global_dialog=0x7f030007;
+        public static final int main=0x7f030008;
+        public static final int overflow_menu=0x7f030009;
+        public static final int pen_editor=0x7f03000a;
+        public static final int tools=0x7f03000b;
     }
     public static final class string {
         public static final int about_text=0x7f040001;
         public static final int about_title=0x7f040002;
-        public static final int app_name=0x7f040003;
+        public static final int alert=0x7f040003;
+        public static final int app_name=0x7f040004;
+        public static final int cancel=0x7f040005;
+        public static final int confirm=0x7f040006;
+        public static final int discard_video_msg=0x7f040007;
+        public static final int finish=0x7f040008;
+        public static final int next=0x7f040009;
         public static final int orientation=0x7f040000;
-        public static final int qr_title=0x7f040004;
+        public static final int processing=0x7f04000a;
+        public static final int qr_title=0x7f04000b;
+        public static final int recorder_state_complete=0x7f04000c;
+        public static final int recorder_state_min_recorded=0x7f04000d;
+        public static final int recorder_state_min_video_crossed=0x7f04000e;
+        public static final int recorder_state_press_to_record=0x7f04000f;
+        public static final int recorder_state_recording=0x7f040010;
+        public static final int video_saved_path=0x7f040011;
     }
     public static final class style {
         public static final int ActionBar=0x7f070000;
@@ -174,6 +257,19 @@ containing a value of this type.
         public static final int ActionBar_Menu=0x7f070004;
         public static final int ActionBar_MenuItem=0x7f070005;
         public static final int ActionBar_Text=0x7f070006;
+        /** 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        
+         */
+        public static final int AppBaseTheme=0x7f070007;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
+        public static final int AppTheme=0x7f070008;
+        public static final int Dialog_loading=0x7f070009;
+        public static final int Dialog_loading_noDim=0x7f07000a;
     }
     public static final class styleable {
         /** Attributes that can be used with a PenToolButton.

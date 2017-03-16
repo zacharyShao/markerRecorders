@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v16/values-xlarge-v16.xml",
+        "outputFile": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v16/values-xlarge-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values-xlarge-v16/dimens.xml",
+                    "file": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/values-xlarge-v16/dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 167
                 },
                 "from": {
-                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values-xlarge-v16/dimens.xml",
+                    "file": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/values-xlarge-v16/dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,

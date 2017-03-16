@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-notouch-v4/values-large-notouch-v4.xml",
+        "outputFile": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-notouch-v4/values-large-notouch-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "/Users/shaoxiaoze/Work/markers/app/src/main/res/values-large-notouch/config.xml",
+                    "file": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/values-large-notouch/config.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,

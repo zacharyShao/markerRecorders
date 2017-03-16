@@ -1,18 +1,58 @@
 [
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/transparent_tool.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/transparent_tool.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/recorder_success_progress.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/recorder_success_progress.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/pentool_bg.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/pentool_bg.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/button_globaldialog.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/button_globaldialog.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/action_button_bg.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/action_button_bg.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_frontcamera.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_frontcamera.xml"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable/transparent.xml",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable/transparent.xml"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/transparent.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/transparent.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_video.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_video.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_picture.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_picture.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_next.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_next.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_cancel.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_cancel.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/transparent_tool.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/transparent_tool.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/button_status_color.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/button_status_color.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_video_text.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_video_text.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/action_button_bg.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/action_button_bg.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/btn_recorder_flashlight.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/btn_recorder_flashlight.xml"
+    },
+    {
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable/pentool_bg.xml",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable/pentool_bg.xml"
     }
 ]

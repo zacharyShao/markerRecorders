@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/checks_small_dark.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/checks_small_dark.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/grabber.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/grabber.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/grabber.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/grabber.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/circle.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/circle.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/airbrush_light.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/airbrush_light.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/uncledan.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/uncledan.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/checks_light.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/checks_light.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/circle_1bpp.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/circle_1bpp.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/airbrush_dark.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/airbrush_dark.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/checks_small_dark.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/checks_small_dark.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/uncledan_save.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/uncledan_save.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/fountainpen.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/fountainpen.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/circle.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/circle.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/checks_light.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/checks_light.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/circle_1bpp.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/circle_1bpp.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/airbrush_dark.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/airbrush_dark.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/uncledan.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/uncledan.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/airbrush_light.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/airbrush_light.png"
     },
     {
-        "merged": "/Users/shaoxiaoze/Work/markers/app/build/intermediates/res/merged/debug/drawable-nodpi/fountainpen.png",
-        "source": "/Users/shaoxiaoze/Work/markers/app/src/main/res/drawable-nodpi/fountainpen.png"
+        "merged": "/Users/shaoxiaoze/Work/markerRecorders/app/build/intermediates/res/merged/debug/drawable-nodpi/uncledan_save.png",
+        "source": "/Users/shaoxiaoze/Work/markerRecorders/app/src/main/res/drawable-nodpi/uncledan_save.png"
     }
 ]
